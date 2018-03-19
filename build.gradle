@@ -1,0 +1,18 @@
+apply plugin: 'java'
+apply plugin: 'maven'
+apply plugin: 'eclipse'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile group: 'org.apache.commons', name: 'commons-lang3', version: 'latest.release'
+    compile group: 'joda-time', name: 'joda-time', version: 'latest.release'
+    compile group: 'commons-validator', name: 'commons-validator', version: 'latest.release'
+    compile group: 'com.fasterxml.jackson.core', name: 'jackson-core', version: '2.9.4'
+    compile group: 'com.fasterxml.jackson.dataformat', name: 'jackson-dataformat-csv', version: '2.9.4'
+    testCompile group: 'junit', name: 'junit', version: 'latest.release'
+}

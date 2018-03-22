@@ -1,4 +1,4 @@
-package tokyo.scratchcrew.sclab.utils.jackson;
+package tokyo.scratchcrew.sclab.lib.utils.jackson;
 
 import java.io.IOException;
 import java.io.InputStream;

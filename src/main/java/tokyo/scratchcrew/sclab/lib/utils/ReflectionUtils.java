@@ -1,4 +1,4 @@
-package tokyo.scratchcrew.sclab.utils;
+package tokyo.scratchcrew.sclab.lib.utils;
 
 import java.lang.reflect.ParameterizedType;
 import java.lang.reflect.Type;

@@ -1,4 +1,4 @@
-package tokyo.scratchcrew.sclab.utils.refleciton;
+package tokyo.scratchcrew.sclab.lib.utils.refleciton;
 
 public class ExampleType {
     

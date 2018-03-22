@@ -1,12 +1,12 @@
-package tokyo.scratchcrew.sclab.utils;
+package tokyo.scratchcrew.sclab.lib.utils;
 
 import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
 
-import tokyo.scratchcrew.sclab.utils.refleciton.ExampleSub;
-import tokyo.scratchcrew.sclab.utils.refleciton.ExampleSuper;
-import tokyo.scratchcrew.sclab.utils.refleciton.ExampleType;
+import tokyo.scratchcrew.sclab.lib.utils.refleciton.ExampleSub;
+import tokyo.scratchcrew.sclab.lib.utils.refleciton.ExampleSuper;
+import tokyo.scratchcrew.sclab.lib.utils.refleciton.ExampleType;
 
 public class ReflectionUtilsTest {
     

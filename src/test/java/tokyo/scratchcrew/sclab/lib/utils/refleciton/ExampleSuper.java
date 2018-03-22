@@ -1,6 +1,6 @@
-package tokyo.scratchcrew.sclab.utils.refleciton;
+package tokyo.scratchcrew.sclab.lib.utils.refleciton;
 
-import tokyo.scratchcrew.sclab.utils.ReflectionUtils;
+import tokyo.scratchcrew.sclab.lib.utils.ReflectionUtils;
 
 public class ExampleSuper<T> {
     

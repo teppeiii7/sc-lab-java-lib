@@ -49,8 +49,8 @@ local.properties
 .idea/
 *.idea/*
 *.iml
-
-
+.idea/vcs.xml
+.idea/uiDesigner.xml
 
 ### Java ###
 *.class

@@ -46,6 +46,7 @@ local.properties
 .springBeans
 
 # Intellij IDEA
+.idea/
 *.idea/*
 *.iml
 

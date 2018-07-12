@@ -4,7 +4,6 @@
 ### Eclipse ###
 *.pydevproject
 .metadata
-.gradle
 bin/
 tmp/
 *.tmp
@@ -51,6 +50,9 @@ local.properties
 *.iml
 .idea/vcs.xml
 .idea/uiDesigner.xml
+*.iws
+*.ipr
+/out
 
 ### Java ###
 *.class
@@ -71,3 +73,6 @@ local.properties
 
 # Gradle
 .gradletasknamecache
+.gradle
+/build/
+!gradle/wrapper/gradle-wrapper.jar
